@@ -9,8 +9,8 @@ This brand kit contains the official Azguard Wallet logo and usage guidelines. T
 | `Azguard_Raw_White_round.png` | Raw black-on-white version, round crop | Light backgrounds, print, favicons |
 | `Azguard_Blue_Gradient_Round.png` | **Primary logo** — blue gradient, round crop | Light backgrounds, app icons, social avatars |
 | `Azguard_Blue_Gradient_Square.png` | Blue gradient, square crop | App icons, stores requiring square format |
-| `Azguard_White_Gradient___Dark_BG_Square.png` | White/silver gradient on dark background | Dark UI, dark mode, dark marketing backgrounds |
-| `Azguard_White_Gradient_Dark_BG_Square.png` | Solid navy blue mark, square crop | Light backgrounds, flat single-color brand use |
+| `Azguard_White_Gradient_Dark_BG_Square.png` | White/silver gradient on dark background | Dark UI, dark mode, dark marketing backgrounds |
+| `Azguard_Raw_Deep_Blue_Square.png` | Solid navy blue mark, square crop | Light backgrounds, flat single-color brand use |
 | `Azguard_Raw_White_Square.png` | Solid white mark on dark background, square crop | Dark UI, dark mode, dark marketing backgrounds |
 
 ## Primary Mark
